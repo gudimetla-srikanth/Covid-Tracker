@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/taiyo-assignment/static/css/main.30ae7312.css",
+    "main.js": "/taiyo-assignment/static/js/main.e54096b5.js",
+    "static/media/location.png": "/taiyo-assignment/static/media/location.abf0fdd58616d801b5c9.png",
+    "index.html": "/taiyo-assignment/index.html",
+    "main.30ae7312.css.map": "/taiyo-assignment/static/css/main.30ae7312.css.map",
+    "main.e54096b5.js.map": "/taiyo-assignment/static/js/main.e54096b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ae7312.css",
+    "static/js/main.e54096b5.js"
+  ]
+}
